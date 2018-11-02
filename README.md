@@ -19,8 +19,7 @@ There's a test binary (VB .net executable) under /test should you need it.
 
 Copyright
 ---------
-This project is a rewrite of und3ath's "und3ath injector" still available at the following URL : https://hostr.co/qFBnh07z2rrm.
-It was originally written by und3ath (https://github.com/und3ath/) circa 2012. Thanks mate :)
+This project is a rewrite of "und3ath injector" written by [und3ath](https://github.com/und3ath/) circa 2012 and still available at the following URL : https://hostr.co/qFBnh07z2rrm. Thanks mate :)
 
 This version expands its features and has a cleaner codebase.
 
