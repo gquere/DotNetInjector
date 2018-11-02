@@ -4,7 +4,7 @@ DotNetInjector
 Rationale
 ---------
 This program is used to inject code into .NET assemblies, .exe or .dll files.
-It uses mono.cecil (https://www.mono-project.com/docs/tools+libraries/libraries/Mono.Cecil/) to inspect and inject CIL code.
+It uses mono.cecil (https://www.mono-project.com/docs/tools+libraries/libraries/Mono.Cecil/) to inspect and inject IL.
 
 .NET DLLs are a bit harder to hijack than regular DLLs because they do not embed a DLL_MAIN function, hence the need for this program.
 
