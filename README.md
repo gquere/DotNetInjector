@@ -10,6 +10,8 @@ It uses mono.cecil (https://www.mono-project.com/docs/tools+libraries/libraries/
 
 Usage
 -----
+Binary is under bin/Release/ and with Mono.Cecil's DLL it should be enough to run.
+
 Make sure mono.cecil's DLL is in the path, it's provided in the project.
 Launch the application, open a .NET assembly, chose the method in which to inject code then double click on it. Write some code in the popup window, then when ready it's compiled and injected into the assembly.
 
